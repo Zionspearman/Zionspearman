@@ -1,12 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zion Spearman
 =====================================================================================================================================
 
-I’m a passionate cybersecurity graduate student and aspiring red teamer with a strong focus on penetration testing and cloud security. I enjoy breaking things ethically to make them stronger—whether it’s identifying vulnerabilities in systems or hardening cloud environments. With a background in communication and experience in web development, I bridge the gap between technical security and user-friendly design. I’m currently sharpening my skills through hands-on labs, tools like Metasploit, Nmap, AWS, and Azure, and I love sharing what I learn through projects and writeups. Let’s secure the future—one layer at a time.
+I’m a passionate cybersecurity graduate student and aspiring red teamer with a strong focus on penetration testing and cloud security. I enjoy breaking things ethically to make them stronger. Whether it’s identifying vulnerabilities in systems or hardening cloud environments. With a background in communication and experience in web development, I bridge the gap between technical security and user-friendly design.  
 
-* 🌍  I'm based in Philadelphia, PA
-* ✉️  You can contact me at [Zspearman441@gmail.com](mailto:Zspearman441@gmail.com)
-* 🧠  I'm learning Advanced penetration testing techniques, Cloud security tools and best practices in AWS and Azure, Preparing for CompTIA Security+ certification
-* 🤝  I'm open to collaborating on Cloud security architecture or vulnerability assessments, Open source tools for penetration testing or secure web apps, Capture the Flag (CTF) challenges or walkthroughs
+I’ve recently earned my **CompTIA Security+ certification** ✅ and I’m now preparing for **Network+** while continuing to sharpen my skills through hands on labs and projects. Let’s secure the future one layer at a time.  
+
+* 🌍  I'm based in Philadelphia, PA  
+* ✉️  You can contact me at [Zspearman441@gmail.com](mailto:Zspearman441@gmail.com)  
+* 🧠  I'm learning advanced penetration testing techniques, cloud security tools and best practices in AWS and Azure, and preparing for CompTIA Network+  
+* 🤝  I'm open to collaborating on cloud security architecture, vulnerability assessments, open-source penetration testing tools, or Capture the Flag (CTF) challenges  
+
 
 ### Skills
 
