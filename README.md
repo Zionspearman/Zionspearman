@@ -1,17 +1,31 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zion Spearman
-=====================================================================================================================================
+I’m a 🎓 cybersecurity graduate student and 🔴 aspiring red teamer with a strong focus on penetration testing, ☁️ cloud security, and 📊 SIEM solutions. I’m passionate about ethically breaking things to make them stronger — whether that’s identifying vulnerabilities, hardening cloud environments, or building resilient security architectures.
 
-I’m a passionate cybersecurity graduate student and aspiring red teamer with a strong focus on penetration testing and cloud security. I enjoy ethically breaking things to make them stronger — whether it’s identifying vulnerabilities in systems or hardening cloud environments. With a background in communication and experience in web development, I bridge the gap between technical security and user-friendly design.
+With a background in communication 🗣 and experience in web development 💻, I bridge the gap between technical security and user-friendly design, making complex security concepts easier to understand and implement.
 
-I’ve recently earned my CompTIA Security+, Network+, and Microsoft AZ-900 (Azure Fundamentals) certifications ✅, and I’m currently preparing for the Splunk Core Certified User exam while continuing to sharpen my skills through hands-on labs and projects. Let’s secure the future one layer at a time.
+✅ Certifications Earned:
 
-🌍 Based in Philadelphia, PA
+- CompTIA Security+
 
-✉️ Zspearman441@gmail.com
+- CompTIA Network+
 
-🧠 Learning advanced penetration testing techniques, cloud security tools and best practices in AWS and Azure, and building SIEM expertise with Splunk
+- Microsoft Azure Fundamentals (AZ-900)
 
-🤝 Open to collaborating on cloud security architecture, vulnerability assessments, open-source penetration testing tools, or Capture the Flag (CTF) challenges
+- Splunk Core Certified User
+
+🎯 Currently Pursuing:
+
+- Microsoft Certified: Azure AI Engineer Associate (AI-102) 🤖
+
+- CISSP 🏆
+
+- OSCP 🕶
+
+🌍 Based in: Philadelphia, PA
+✉️ Email: Zspearman441@gmail.com
+
+🧠 Learning: Advanced penetration testing, AWS & Azure security, SIEM operations, and applied AI security engineering
+🤝 Open To: Cloud security architecture, red/blue team exercises, open-source security tools, and Capture-the-Flag (CTF) challenges
+
 
 ### Skills
 
