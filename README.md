@@ -1,30 +1,58 @@
-I’m a 🎓 cybersecurity graduate student and 🔴 aspiring red teamer with a strong focus on penetration testing, ☁️ cloud security, and 📊 SIEM solutions. I’m passionate about ethically breaking things to make them stronger — whether that’s identifying vulnerabilities, hardening cloud environments, or building resilient security architectures.
+# Hi — I’m Zion Spearman 👋
+**Graduate student (M.S. Cybersecurity)** • Aspiring Red Teamer • Penetration Testing • Cloud Security • SIEM
 
-With a background in communication 🗣 and experience in web development 💻, I bridge the gap between technical security and user-friendly design, making complex security concepts easier to understand and implement.
+I ethically break things so they become stronger — with hands-on work in AD/Windows exploitation, Azure & AWS labs, and SIEM-based detection. I combine a communications background with web dev experience to make technical security accessible and actionable.
 
-✅ Certifications Earned:
+---
 
-- CompTIA Security+
+## 🎯 Focus areas
+- **Red Team / Penetration Testing:** AD exploitation, Kerberoasting, Golden Ticket, post-exploitation tooling  
+- **Cloud Security:** Azure & AWS hardening, Key Vault/Secrets, Blob/S3 enumeration, cloud privilege escalation labs  
+- **SIEM & Detection:** Splunk log ingestion, alert triage, search queries, dashboards and playbooks  
+- **Dev Tools:** Docker, Python, JavaScript, PowerShell
 
-- CompTIA Network+
+---
 
-- Microsoft Azure Fundamentals (AZ-900)
-
+## ✅ Certifications
+- CompTIA Security+  
+- CompTIA Network+  
+- Microsoft Azure Fundamentals (AZ-900)  
 - Splunk Core Certified User
 
-🎯 Currently Pursuing:
+## 🔜 Currently pursuing
+- Microsoft Certified: Azure AI Engineer Associate (AI-102)  
+- CISSP (study in progress)  
+- OSCP (labs & practice)
 
-- Microsoft Certified: Azure AI Engineer Associate (AI-102) 🤖
+---
 
-- CISSP 🏆
+## 🚀 Selected projects
+> (Pinned on my profile — click the repos for demos & writeups)
 
-- OSCP 🕶
+- **kerberos-golden-ticket-report** — step-by-step Kerberoasting → Golden Ticket lab with PoC and remediation notes.  
+- **azure-red-team-lab** — Azure lab walkthrough: Blob exploitation, Key Vault misconfig demo.  
+- **siem-playbooks** — Splunk queries, dashboards, and incident triage playbooks for common detections.
 
-🌍 Based in: Philadelphia, PA
-✉️ Email: Zspearman441@gmail.com
+*(More project writeups, screenshots, and reproducible lab steps in each repo.)*
 
-🧠 Learning: Advanced penetration testing, AWS & Azure security, SIEM operations, and applied AI security engineering
-🤝 Open To: Cloud security architecture, red/blue team exercises, open-source security tools, and Capture-the-Flag (CTF) challenges
+---
+
+## 📫 Connect
+- Email: zspearman441@gmail.com  
+- LinkedIn: linkedin.com/in/zionspearman  
+- Portfolio / Demos: (link to GitHub Pages or portfolio if available)
+
+---
+
+## ⚡ Quick goals
+- Publish OSCP-style writeups with red-team detection notes.  
+- Add replayable lab VMs/containers (where permitted) and automated setup scripts.  
+- Create Splunk dashboards + detection notebooks for each red team technique.
+
+---
+
+Thanks for visiting — I’m always down for collabs, CTFs, or security talks. 🔒🛠️
+
 
 
 ### Skills
