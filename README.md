@@ -1,9 +1,7 @@
 # Hi — I’m Zion Spearman 👋
-**Graduate student (M.S. Cybersecurity)** • Aspiring Red Teamer • Penetration Testing • Cloud Security • SIEM
+Cybersecurity Graduate (M.S. Cybersecurity) • Aspiring Red Teamer • Penetration Testing • OT & Cloud Security • SIEM
 
-I ethically break things so they become stronger — with hands-on work in AD/Windows exploitation, Azure & AWS labs, and SIEM-based detection. I combine a communications background with web dev experience to make technical security accessible and actionable.
-
----
+I ethically break things so organizations become stronger. My experience includes hands-on Active Directory and Windows exploitation, Azure and AWS cloud security labs, OT/ICS security fundamentals, and SIEM-driven threat detection. With a background in communication and web development, I translate complex technical findings into clear, actionable insights that strengthen both IT and OT environments.
 
 ## 🎯 Focus areas
 - **Red Team / Penetration Testing:** AD exploitation, Kerberoasting, Golden Ticket, post-exploitation tooling  
